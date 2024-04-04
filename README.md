@@ -1,16 +1,16 @@
 <h1 align="center"> the Web </h1>
-#Pagina web de productos (sin login)
-*[Herramientas](#Angular, Ionic, html, scss, capacitor)
+<p>Pagina web de productos (sin login)</p>
+<p>*[Herramientas](#Angular, Ionic, html, scss, capacitor)</p>
 #
-ionic start theWeb blank --type=angular --capacitor
-cd .\theWeb\
-ionic g page pages/menu  
-ionic g page pages/home
-ionic g page pages/products
-ionic g page pages/about   
+<h3> ionic start theWeb blank --type=angular --capacitor </h3>
+<h3> cd .\theWeb\</h3>
+<h3> ionic g page pages/menu  </h3>
+<h3> ionic g page pages/home</h3>
+<h3> ionic g page pages/products</h3>
+<h3> ionic g page pages/about   </h3>
 
 
- ionic g module components/sharedComponents --flat
-  ionic g component components/header
+ <h3>ionic g module components/sharedComponents --flat</h3>
+ <h3> ionic g component components/header</h3>
 
 
